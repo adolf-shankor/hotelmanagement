@@ -63,7 +63,7 @@ We want to provide comfort to the user in order that he can place order from any
 > 1. Open eclipse.
 > 2. create work-space.
 > 3. import the project.
-> 4. [Go to application.properties](https://github.com/Divya748/Hotel-Booking-System/blob/master/hotelmanagementsystem/src/main/resources/application.properties)
+> 4. [Go to application.properties](https://github.com/adolf-shankor/hotelmanagement/blob/master/hotelmanagementsystem/src/main/resources/application.properties)
 > 5. Change user-name and password and databasename if you want.
 > 6. Open Mysql-command-line-client 
    - give your password
