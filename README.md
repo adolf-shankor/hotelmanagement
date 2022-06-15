@@ -68,7 +68,7 @@ We want to provide comfort to the user in order that he can place order from any
 > 6. Open Mysql-command-line-client 
    - give your password
    - command to create database `create database database-name`
-> 7. [To run file go here](https://github.com/Divya748/Hotel-Booking-System/blob/master/hotelmanagementsystem/src/main/java/com/revature/hotelmanagementsystem/HotelmanagementsystemApplication.java)
+> 7. [To run file go here](https://https://github.com/adolf-shankor/hotelmanagement/blob/master/hotelmanagementsystem/src/main/java/com/revature/hotelmanagementsystem/HotelmanagementsystemApplication.java)
 > 8. Right click -> Run as -> java application.
 > 
  **Steps to run Frontend** 
